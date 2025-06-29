@@ -23,7 +23,7 @@ To access and run the project notebooks, follow these steps:
 
 1. Clone the repository using the following command:
    ```
-  https://github.com/Gnanisundarraj/CodeAlpha/tree/main
+   https://github.com/Gnanisundarraj/CodeAlpha/tree/main
    ```
 
 2. Navigate to the project directory:
@@ -40,7 +40,7 @@ To access and run the project notebooks, follow these steps:
 
 ## About CodeAlpha
 
-Oasis Infobyte is a dynamic technology company that provides various IT solutions and services. The Data Science Internship program at CodeAlpha offers hands-on experience and skill development in the field of data science and analytics.
+CodeAlpha is a dynamic technology company that provides various IT solutions and services. The Data Science Internship program at CodeAlpha offers hands-on experience and skill development in the field of data science and analytics.
 
 ## Contact Information
 
